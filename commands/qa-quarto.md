@@ -1,7 +1,5 @@
 ---
 description: Adversarial Quarto vs Beamer QA with iterative critic/fixer loop until APPROVED (max 5 rounds)
-argument-hint: <LectureN>
-allowed-tools: Read, Write, Edit, Bash, Glob, Grep
 ---
 
 # Adversarial Quarto vs Beamer QA Workflow

@@ -1,7 +1,5 @@
 ---
 description: Render Quarto slides and sync to docs/ for GitHub Pages deployment
-argument-hint: <LectureN or 'all'>
-allowed-tools: Bash, Read, Glob
 ---
 
 # Deploy Slides to GitHub Pages

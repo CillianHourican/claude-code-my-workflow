@@ -1,7 +1,5 @@
 ---
 description: Adversarial visual audit of Quarto or Beamer slides checking overflow, font consistency, box fatigue, and layout
-argument-hint: <QMD or TEX filename>
-allowed-tools: Read, Grep, Glob, Write
 ---
 
 # Visual Audit of Slide Deck

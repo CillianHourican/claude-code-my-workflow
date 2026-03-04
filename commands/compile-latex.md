@@ -1,7 +1,5 @@
 ---
 description: Compile a Beamer LaTeX slide deck with XeLaTeX (3 passes + bibtex)
-argument-hint: <filename without .tex extension>
-allowed-tools: Bash, Read, Glob
 ---
 
 # Compile Beamer LaTeX Slides

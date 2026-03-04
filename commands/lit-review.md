@@ -1,7 +1,5 @@
 ---
 description: Structured literature search and synthesis with citation extraction and gap identification
-argument-hint: <topic, paper title, or research question>
-allowed-tools: Read, Grep, Glob, Write, WebSearch, WebFetch
 ---
 
 # Literature Review

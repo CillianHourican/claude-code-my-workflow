@@ -1,7 +1,5 @@
 ---
 description: Proofreading protocol for lecture files checking grammar, typos, overflow, consistency, and academic writing quality
-argument-hint: <filename or 'all'>
-allowed-tools: Read, Grep, Glob, Write
 ---
 
 # Proofread Lecture Files

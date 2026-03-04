@@ -1,7 +1,5 @@
 ---
 description: Translate Beamer LaTeX to Quarto RevealJS with multi-phase workflow including TikZ extraction and QA
-argument-hint: <LectureN_Topic.tex>
-allowed-tools: Read, Write, Edit, Bash, Glob, Grep
 ---
 
 # Beamer → Quarto Translation Workflow

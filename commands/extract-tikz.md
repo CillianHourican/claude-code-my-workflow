@@ -1,7 +1,5 @@
 ---
 description: Extract TikZ diagrams from Beamer source, compile to PDF, convert to SVG with 0-based indexing
-argument-hint: <LectureN, e.g., Lecture2>
-allowed-tools: Bash, Read, Glob
 ---
 
 # Extract TikZ Diagrams to SVG

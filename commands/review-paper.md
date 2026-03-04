@@ -1,7 +1,5 @@
 ---
 description: Comprehensive manuscript review covering argument structure, econometric specification, citation completeness, and referee objections
-argument-hint: <paper filename in master_supporting_docs/ or path to .tex/.pdf>
-allowed-tools: Read, Grep, Glob, Write
 ---
 
 # Manuscript Review

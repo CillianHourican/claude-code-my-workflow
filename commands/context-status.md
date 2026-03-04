@@ -1,6 +1,5 @@
 ---
 description: Show current context status and session health including context usage estimate and preservation state
-allowed-tools: Read, Bash, Glob
 ---
 
 # /context-status — Check Session Health

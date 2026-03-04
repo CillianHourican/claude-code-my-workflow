@@ -1,7 +1,5 @@
 ---
 description: Challenge slide design with 5-7 pedagogical questions checking ordering, prerequisites, and cognitive load
-argument-hint: <Lecture filename>
-allowed-tools: Read, Grep, Glob
 ---
 
 # Devil's Advocate Review

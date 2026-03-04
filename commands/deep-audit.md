@@ -1,6 +1,5 @@
 ---
 description: Deep consistency audit of the entire repository infrastructure with parallel specialist agents that find and fix issues
-allowed-tools: Read, Write, Edit, Bash, Glob, Grep
 ---
 
 # /deep-audit — Repository Infrastructure Audit

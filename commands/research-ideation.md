@@ -1,7 +1,5 @@
 ---
 description: Generate structured research questions, testable hypotheses, and empirical strategies from a topic or dataset
-argument-hint: <topic, phenomenon, or dataset description>
-allowed-tools: Read, Grep, Glob, Write
 ---
 
 # Research Ideation

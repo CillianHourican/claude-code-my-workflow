@@ -1,6 +1,5 @@
 ---
 description: Cross-reference all citations in lecture files against bibliography entries to find missing and unused references
-allowed-tools: Read, Grep, Glob
 ---
 
 # Validate Bibliography

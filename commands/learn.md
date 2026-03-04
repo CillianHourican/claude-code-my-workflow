@@ -1,7 +1,5 @@
 ---
 description: Extract reusable knowledge from the current session into a persistent skill or command
-argument-hint: <skill-name (kebab-case)>
-allowed-tools: Read, Write, Bash, Glob, Grep
 ---
 
 # /learn — Skill Extraction Workflow

@@ -1,7 +1,5 @@
 ---
 description: Stage, commit, create PR, and merge to main via the standard commit-PR-merge cycle
-argument-hint: <optional: commit message>
-allowed-tools: Bash, Read, Glob
 ---
 
 # Commit, PR, and Merge

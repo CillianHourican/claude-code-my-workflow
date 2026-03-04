@@ -1,7 +1,5 @@
 ---
 description: Holistic pedagogical review of lecture slides checking narrative arc, prerequisites, worked examples, notation, and pacing
-argument-hint: <QMD or TEX filename>
-allowed-tools: Read, Grep, Glob, Write
 ---
 
 # Pedagogical Review of Lecture Slides

@@ -1,7 +1,5 @@
 ---
 description: R code quality review checking reproducibility, domain correctness, and professional standards
-argument-hint: <filename or 'all' or 'LectureN'>
-allowed-tools: Read, Grep, Glob, Write
 ---
 
 # Review R Scripts

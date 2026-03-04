@@ -1,7 +1,5 @@
 ---
 description: Multi-agent slide review combining visual, pedagogy, and proofreading checks for comprehensive quality assessment
-argument-hint: <QMD or TEX filename>
-allowed-tools: Read, Grep, Glob, Write
 ---
 
 # Slide Excellence Review

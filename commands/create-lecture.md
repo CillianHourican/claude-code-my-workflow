@@ -1,7 +1,5 @@
 ---
 description: Create new Beamer lecture from papers and materials with guided workflow and notation consistency
-argument-hint: <Topic name>
-allowed-tools: Read, Write, Edit, Bash, Glob, Grep
 ---
 
 # Lecture Creation Workflow
