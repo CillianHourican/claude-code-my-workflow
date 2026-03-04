@@ -1,10 +1,8 @@
 {
   "name": "academic-workflow-pedro",
   "version": "1.0.0",
-  "description": "Multi-agent academic writing workflow: quality gates, adversarial QA, plan-first, session logging. Converted from pedrohcgs/claude-code-my-workflow. Uses MEMORY.md for cross-session learning.",
-  "author": "pedrohcgs (converted)",
-  "agents": "agents/",
-  "commands": "commands/",
-  "skills": "skills/",
-  "hooks": "hooks/hooks.json"
+  "description": "Multi-agent academic writing workflow: quality gates, adversarial QA, plan-first, session logging.",
+  "author": {
+    "name": "pedrohcgs (converted)"
+  }
 }
